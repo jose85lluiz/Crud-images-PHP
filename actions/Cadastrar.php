@@ -48,8 +48,8 @@ $valor=$_POST['valor'];
     <link rel="stylesheet" href="../css/styles.css">
     <title>CADASTRO</title>
     <script src="https://code.jquery.com/jquery-3.7.0.min.js"></script>
-    <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.mask/1.14.16/jquery.mask.js"></script>-->
-    <script src="../js/jquery.mask.min.js"> </script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.mask/1.14.16/jquery.mask.js"></script>
+    
  
  
   
